@@ -40,7 +40,7 @@ header {
 	display: grid;
 	grid-template-columns: 15rem auto;
 	background:  rgb(173, 173, 174);
-	padding: 1rem 1rem 0rem;
+	padding: 1em 2em;
 	}
 
 h1 {
